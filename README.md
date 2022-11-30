@@ -1,4 +1,4 @@
-# Leia
+# Descrição
 Sistema voltado ao time de HelpDesk. 
 Possui uma cadeia de dicas, comandos e soluções que são exibidas ao selecionar grupos de problemas relacionados a sistemas vinculados.
 Possui níveis de acesso: Administrador e Suporte.
